@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UFT-8" ?>
+<rss version="2.0">
+
+    <channel>
+
+        <title>Averaci</title>
+        <link>https://vermillion-biscochitos-82231d.netlify.app/</link>
+        <description>Tienda de ropa online</description>
+
+        <item>
+
+            <title>iniciar_sesion</title>
+            <link>https://vermillion-biscochitos-82231d.netlify.app/iniciar_sesion</link>
+            <description>Página para iniciar sesión</description>
+            <guid isPermaLink = "true">https://vermillion-biscochitos-82231d.netlify.app/iniciar_sesion</guid>
+
+        </item>
+        
+        <item>
+
+            <title>crear_cuenta</title>
+            <link>https://vermillion-biscochitos-82231d.netlify.app/crear_cuenta</link>
+            <description>Página para crear una cuenta</description>
+            <guid isPermaLink = "true">https://vermillion-biscochitos-82231d.netlify.app/crear_cuenta</guid>
+
+        </item>
+
+        <item>
+
+            <title>tienda</title>
+            <link>https://vermillion-biscochitos-82231d.netlify.app/tienda</link>
+            <description>Página para ver y comprar los productos</description>
+            <guid isPermaLink = "true">https://vermillion-biscochitos-82231d.netlify.app/tienda</guid>
+
+        </item>
+
+        <item>
+
+            <title>contactanos</title>
+            <link>https://vermillion-biscochitos-82231d.netlify.app/contactanos</link>
+            <description>Página para contactar con la empresa</description>
+            <guid isPermaLink = "true">https://vermillion-biscochitos-82231d.netlify.app/contactanos</guid>
+
+        </item>
+
+    </channel>
+
+</rss>
